@@ -1,8 +1,6 @@
 ### Companion to "Introduction to the Interstellar Medium" by Jonathan Williams
 
-[About the book](about_the_book.md)
-
-Recreate figures from the book and use the code as starting points for some of the questions.
+Recreate figures from the [textbook](about_the_book.md) and use the code as starting points for some of the questions.
 Most figures are created in python as [jupyter notebooks](https://jupyter.org/) that you can download and use as starting points for problem sets in the book or for further investigation.
 Line drawings are created in [tikz](https://www.overleaf.com/learn/latex/TikZ_package) which require downloading the tex file and running 'pdflatex'.
 A remaining few others were created in [keynote](https://www.apple.com/keynote/) and are only available here as pdf.
