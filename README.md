@@ -1,4 +1,6 @@
-### Companion to the textbook "Introduction to the Interstellar Medium" by Jonathan Williams
+### Companion to "Introduction to the Interstellar Medium" by Jonathan Williams
+
+[About the book](about_the_book.md)
 
 Recreate figures from the book and use the code as starting points for some of the questions.
 Most figures are created in python as [jupyter notebooks](https://jupyter.org/) that you can download and use as starting points for problem sets in the book or for further investigation.
