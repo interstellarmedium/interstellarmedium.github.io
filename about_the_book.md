@@ -1,5 +1,5 @@
 
-![book cover](https://github.com/interstellarmedium/interstellarmedium.github.io/blob/master/book_plus_intro.jpg)
+![book cover](https://interstellarmedium.github.io/assets/img/book_plus_intro.jpg)
 
 *"This makes a very valuable addition to the bookshelf of any student wanting to explore the rich physics of the interstellar medium. It takes as its starting point the physics that students already know (quantum physics, thermodynamics, interferometry, fluid mechanics) and leads them to an understanding of how all these fields have combined during the last half century to give us our present insight into the ‘stuff between the stars’. Wide ranging and accessibly written, it provides an excellent introduction to our current understanding of the interstellar medium and will be useful also to professional astronomers working in adjacent fields."* Cathie Clarke, University of Cambridge
 
