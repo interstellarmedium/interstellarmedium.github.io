@@ -13,7 +13,7 @@ Use the command or control key when clicking on a link to open it in a new tab.
 
 #### Chapter 2 - Observations
 * Figure 2.1 ([tex](observations/radiation_schematic.tex)) ([pdf](observations/radiation_schematic.pdf))
-* Figure 2.2 ([notebook](https://nbviewer.jupyter.org/url/interstellarmedium.github.io/observations/atmos_absorption.ipynb)) ([pdf](observations/atmos_absorption.pdf))
+* Figure 2.2 ([notebook](https://nbviewer.jupyter.org/url/interstellarmedium.github.io/observations/atmos_absorption.ipynb)) ([data](observations/atmos_extinction.txt)) ([pdf](observations/atmos_absorption.pdf))
 
 
 #### Chapter 3 - Essential Background Physics
